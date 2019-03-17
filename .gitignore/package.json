@@ -1,0 +1,16 @@
+{
+  "name": "funelia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index - Copie.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "pkg": "^4.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawken#9479 , sysy sysy242#3935",
+  "license": "ISC"
+}
